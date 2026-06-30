@@ -1,0 +1,1 @@
+char** readFile(const char* filename, int* tokenCount);
